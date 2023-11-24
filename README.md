@@ -39,6 +39,7 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Supabse](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)&nbsp;
 
 #### Workstation Tools:
 
