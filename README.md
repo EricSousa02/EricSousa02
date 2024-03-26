@@ -1,3 +1,9 @@
+<div align="center" style="margin-bottom:100px">
+  <video width="75%" controls>
+    <source src="https://youtu.be/cvh_IFNp9YU?si=-GLWNEpJkfm3xTqN" type="video/mp4">
+    Seu navegador não suporta a tag de vídeo.
+  </video>
+</div>
 
 <p align="center">I ❤️ creating beautiful, interactive websites and automating tasks. <br><br> From backend development using Nest to frontend development using Next , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality websites and solutions. Today, I'm a <strong>full stack junior developer</strong> focused on web development.</p>&nbsp;
 
