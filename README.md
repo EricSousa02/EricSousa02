@@ -1,14 +1,9 @@
 
 
 <p align="center">I ❤️ creating beautiful, interactive websites and automating tasks. <br><br> From backend development using Nest to frontend development using Next , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality websites and solutions. Today, I'm a <strong>full stack junior developer</strong> focused on web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EricSousa02&theme=radical&mode=weekly" />
- </div>
  
  &nbsp;
  &nbsp;
-
 
 
 ## My Skills
