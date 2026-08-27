@@ -59,8 +59,19 @@
 
 ## 📊 GitHub Analytics
 
+<table align="center">
+  <tr>
+    <td>
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=EricSousa02&show_icons=true&theme=radical" alt="Eric's GitHub stats" />
+    </td>
+    <td>
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EricSousa02&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="165px" src="https://github-stats-extended.vercel.app/api?username=EricSousa02&show_icons=true&theme=radical" alt="Eric's GitHub stats" />
+  <img height="165px" src="https://streak-stats.demolab.com/?user=EricSousa02&hide_border=true&background=00000000&stroke=58E6D9&ring=58E6D9&fire=58E6D9&currStreakLabel=58E6D9&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8C8C8C&cache_seconds=1800" alt="Eric's GitHub streak" />
 </p>
 
 
