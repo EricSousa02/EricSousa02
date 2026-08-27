@@ -60,12 +60,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165px" src="https://streak-stats.demolab.com/?user=EricSousa02&hide_border=true&background=00000000&stroke=58E6D9&ring=58E6D9&fire=58E6D9&currStreakLabel=58E6D9&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8C8C8C&cache_seconds=1800" alt="Eric's GitHub streak" />
+  <img height="165px" src="https://github-stats-extended.vercel.app/api?username=EricSousa02&show_icons=true&theme=radical" alt="Eric's GitHub stats" />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=EricSousa02&bg_color=00000000&color=58E6D9&line=58E6D9&point=ffffff&area=true&hide_border=true&cache_seconds=1800" alt="Contribution activity graph" />
-</p>
 
 &nbsp;
 
