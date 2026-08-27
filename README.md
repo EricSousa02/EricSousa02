@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./klee.gif" width="100%" alt="Banner" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58E6D9&center=true&vCenter=true&width=600&lines=Full+Stack+Junior+Developer;Next.js+%2B+NestJS+%2B+MongoDB;Learning+automation+with+Python;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -56,11 +60,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165px" src="https://streak-stats.demolab.com/?user=EricSousa02&hide_border=true&background=00000000&stroke=58E6D9&ring=58E6D9&fire=58E6D9&currStreakLabel=58E6D9&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8C8C8C" alt="Eric's GitHub streak" />
+  <img height="165px" src="https://streak-stats.demolab.com/?user=EricSousa02&hide_border=true&background=00000000&stroke=58E6D9&ring=58E6D9&fire=58E6D9&currStreakLabel=58E6D9&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8C8C8C&cache_seconds=1800" alt="Eric's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=EricSousa02&bg_color=00000000&color=58E6D9&line=58E6D9&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=EricSousa02&bg_color=00000000&color=58E6D9&line=58E6D9&point=ffffff&area=true&hide_border=true&cache_seconds=1800" alt="Contribution activity graph" />
 </p>
 
 &nbsp;
