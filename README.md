@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./klee.gif" width="100%" alt="Banner" />
+  <img src="./MyGithubBanner.png" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
